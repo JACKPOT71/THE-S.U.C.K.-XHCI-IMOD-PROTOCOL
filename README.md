@@ -1,4 +1,4 @@
-The S.U.C.K XHCI. Protocol 🚀
+The S.U.C.K XHCI Protocol 🚀
 
 A FortKnight's Legacy by JACKPOT_ZB
 
