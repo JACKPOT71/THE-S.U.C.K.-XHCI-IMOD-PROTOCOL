@@ -6,7 +6,7 @@ Welcome to the "eXtreme Hardware Control Interface" (XHCI) Overdrive Protocol! T
 
 Find us on Discord: https://discord.gg/xtgBxkpc2x
 
-suuu
+
 ⚠️ CRITICAL WARNING ⚠️
 
 This script makes deep, invasive modifications to your Windows operating system and directly interacts with your hardware. Disabling core security features and writing to hardware registers can lead to system instability, data corruption, security vulnerabilities, or even permanent hardware damage.
