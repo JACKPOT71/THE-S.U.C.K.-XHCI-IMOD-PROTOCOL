@@ -62,3 +62,5 @@ Some low-level operations require the highest privileges. This script automates 
 [STAGE E] SANITIZE & EVACUATE: All temporary files are deleted, leaving the system clean. The operation is complete.
 
 [Q] QUIT PROGRAM: The script automatically terminates after completing its mission.
+
+Credits: I don't know exactly but i think it was Kizzimo who share this the first time. Thanks a lot for your work mate.
